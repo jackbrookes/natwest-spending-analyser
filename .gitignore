@@ -1,3 +1,7 @@
+# private data
+datasets_priv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
